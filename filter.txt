@@ -1,0 +1,14 @@
+! Title: uBlock filters – Unbreak
+! Last modified: %timestamp%
+! Expires: 5 days
+! Description:
+!     Filters optimized for uBlock Origin, to unbreak sites broken as
+!     a result of 3rd-party filter lists enabled by default.
+
+www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
+www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
+www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+www.reddit.com##xpromo-nsfw-blocking-modal,slot+.prompt 
+www.reddit.com##[style*="blur"]:style(filter:none!important;)
+
