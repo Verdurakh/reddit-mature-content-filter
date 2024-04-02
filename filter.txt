@@ -1,9 +1,8 @@
-! Title: uBlock filters – Unbreak
+! Title: reddit  mature popup
 ! Last modified: %timestamp%
 ! Expires: 5 days
 ! Description:
-!     Filters optimized for uBlock Origin, to unbreak sites broken as
-!     a result of 3rd-party filter lists enabled by default.
+!     try  to  block  mature  warning popup
 
 www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
